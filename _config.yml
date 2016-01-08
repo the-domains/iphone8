@@ -1,0 +1,28 @@
+name: iphone8
+favicon: null
+layout_spectrum: 0.45367996022105217
+typography_spectrum: 0.10919102933257818
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.11116035399027169
+  lightness: 0.2622202350758016
+  saturation: 0.3400762483943254
+  rhythmicContrast: 0.22031688201241195
+purpose: []
